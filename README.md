@@ -2,7 +2,7 @@
 
 Current features:  
     -Create an unordered binary-tree.<br>
-    -Pre-order traversal.
-    -Post-order traversal.
-    -In-order traversal.
+    -Pre-order traversal.<br>
+    -Post-order traversal.<br>
+    -In-order traversal.<br>
  
